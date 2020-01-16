@@ -16,7 +16,7 @@
 
 8. Ve hasta "Taox Wizard Repo/Add-ons de programas/Taox Wizard" y pulsa en "Instalar".
 
-9. Espera a que abrá el pop-up de "Bienvenida" una vez leído pulsa "Entendido" en el siguiente pop-up presiona "Wizard Menú"
+9. Espera a que abra el pop-up de "Bienvenida" una vez leído pulsa "Entendido", en el siguiente pop-up presiona "Wizard Menú"
 
 10. Entra en "Builds" selecciona la build a instalar, presiona "INSTALAR BUILD" en el siguiente cuadro, acepta en "Si, Instalar".
 
