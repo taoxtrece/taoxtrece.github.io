@@ -4,7 +4,7 @@
 
 2. Pulsa en "Añadir fuente".
 
-3. Escribe la dirección: https://taoxtrece.github.io
+3. Escribe la dirección https://taoxtrece.github.io y nómbrala como "taoxwizard".
 
 4. Acepta pulsando "OK" e ir hasta "Add-ons".
 
